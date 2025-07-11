@@ -19,4 +19,9 @@ We developed a CNN model to classify different species of grapevine leaves from 
 - PyTorch Lightning
 - numpy
 - pandas
-
+- 
+## Project Structure
+├── Untitled11.ipynb # Jupyter notebook with model training and evaluation
+├── data/ # Directory containing grapevine leaf images
+├── README.md # Project documentation file
+└── requirements.txt # List of required Python libraries
