@@ -25,3 +25,6 @@ We developed a CNN model to classify different species of grapevine leaves from 
 - data/ # Directory containing grapevine leaf images
 - README.md # Project documentation file
 - requirements.txt # List of required Python libraries
+- 
+## Project Report
+The full project report including methodology, results, and analysis can be found in the [`CNN Image Classification Report.pdf`](./CNN%20Image%20Classification%20Report.pdf) file.
