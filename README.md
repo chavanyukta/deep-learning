@@ -28,3 +28,7 @@ We developed a CNN model to classify different species of grapevine leaves from 
 - 
 ## Project Report
 The full project report including methodology, results, and analysis can be found in the [`CNN Image Classification Report.pdf`](./CNN%20Image%20Classification%20Report.pdf) file.
+
+## Contact
+Yukta Sanjiv Chavan
+Email: chavanyukta@gmail.com
